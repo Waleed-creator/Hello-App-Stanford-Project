@@ -1,46 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hello App – PyQt6 Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      margin: 20px 0;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+# 👋 Hello App – My First PyQt6 Application
 
-  <h1>👋 Hello App – My First PyQt6 Application</h1>
-  <p>This is a simple desktop GUI app built using <strong>Python</strong> and <strong>PyQt6</strong>. It's my first project to explore building graphical user interfaces. The app features a basic window with interactive elements and is packaged with a setup file for easy distribution.</p>
+This is a simple desktop GUI app built using **Python** and **PyQt6**. It's my first project to explore building graphical user interfaces. The app features a basic window with interactive elements and is packaged with a setup file for easy distribution.
 
-  <h2>🖼️ App Demo</h2>
-  <img src="https://raw.githubusercontent.com/Waleed-creator/Waleed-creator/main/download.gif" alt="Hello App Demo">
+👋 I’m excited to share that I’ve built my first desktop application using PyQt6 and Python!
 
-  <h2>📺 Watch the Demo Video</h2>
-  <p>Check out how it works on YouTube:</p>
-  <p><a href="https://www.youtube.com/@Professor-Hunter" target="_blank">▶️ Watch on YouTube</a></p>
+🙃 This simple project taught me the basics of GUI development, such as creating windows, buttons, and handling events. I also learned how to generate a setup file for easy installation on other systems. 
 
-</body>
-</html>
+This marks the start of my journey with Python GUI development using PyQt6 🔥. 
+
+💖 Thank you, Code In Place! 😍
+
+## 🖼️ App Demo
+![Hello App Demo](https://raw.githubusercontent.com/Waleed-creator/Hello-App-Stanford-Project/main/demo.png)
+
+## 📺 Watch the Demo Video
+[![Watch the video](https://img.youtube.com/vi/C8NOKfR6jJA/0.jpg)](https://www.youtube.com/watch?v=C8NOKfR6jJA)
