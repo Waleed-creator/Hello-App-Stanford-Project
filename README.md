@@ -1,1 +1,0 @@
-﻿# Hello-App-Stanford-Project
